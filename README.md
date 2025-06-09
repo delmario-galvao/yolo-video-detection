@@ -10,7 +10,7 @@ It showcases a side-by-side comparison between YOLOv5n and YOLOv8n running on re
 # Authors
 This work was developed by:
 
-Delmário dos Santos Gomes Galvão
+Delmário dos Santos Gomes Galvão \\
 delmario.santos@ufba.br
 
 Luciano dos Santos Gomes

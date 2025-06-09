@@ -11,17 +11,17 @@ It showcases a side-by-side comparison between YOLOv5n and YOLOv8n running on re
 This work was developed by:
 
 Delmário dos Santos Gomes Galvão
-Federal University of Bahia (UFBA)
-ORCID: 0000-0002-0738-2473
+
+delmario.santos@ufba.br
 
 Luciano dos Santos Gomes
-Federal University of Bahia (UFBA)
+
 Email: luciano.gomes@ufba.br
 
 André Gustavo Scolari Conceição
-Federal University of Bahia (UFBA)
-ORCID: 0000-0001-8124-6253
+
+andre.gustavo@ufba.br
 
 Eduardo Furtado de Simas Filho
-Federal University of Bahia (UFBA)
-ORCID: 0000-0001-8707-785X
+
+eduardo.simas@ufba.br

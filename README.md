@@ -16,7 +16,7 @@ delmario.santos@ufba.br
 
 Luciano dos Santos Gomes
 
-Email: luciano.gomes@ufba.br
+luciano.gomes@ufba.br
 
 André Gustavo Scolari Conceição
 
